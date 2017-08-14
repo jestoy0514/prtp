@@ -1,2 +1,2 @@
 # prtp
-A simple print module using Pyhton, Tkinter, and PyWin32.
+A simple print module using Python, Tkinter, and PyWin32.
